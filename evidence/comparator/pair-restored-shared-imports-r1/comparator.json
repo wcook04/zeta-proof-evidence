@@ -1,0 +1,20 @@
+{
+  "challenge_module": "PairChallenge",
+  "solution_module": "PairSolution",
+  "theorem_names": [
+    "ZetaComparator.pairStrict",
+    "ZetaComparator.pairLehmer",
+    "ZetaComparator.pairClassical",
+    "ZetaComparator.classicalRootArgument",
+    "ZetaComparator.classicalArgumentRoot",
+    "ZetaComparator.classicalNormalizedValue",
+    "ZetaComparator.classicalNormalizedOrder",
+    "ZetaComparator.pairRelativeRobust",
+    "ZetaComparator.pairAbsoluteRobust"
+  ],
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "ZetaComparator.abs_correctionLinear_le_of_third_deriv",
+    "ZetaComparator.abs_hardyZRemainderRS\u2080_le_with",
+    "ZetaComparator.hardyZSign_of_own_signedMargin",
+    "ZetaComparator.hardyZSign_of_signedMargin",
+    "ZetaComparator.abs_hardyZRemainderRS\u2080_le_eighth"
+  ],
+  "definition_names": [],
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ]
+}

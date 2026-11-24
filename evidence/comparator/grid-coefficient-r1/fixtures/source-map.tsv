@@ -1,0 +1,2 @@
+ZetaComparator.abs_correctionLinear_lt_eighth	Zeta.RiemannSiegel.abs_correctionLinear_lt_eighth	sources/C1Bound.lean
+ZetaComparator.abs_correctionLinear_lt_decimal	Zeta.RiemannSiegel.abs_correctionLinear_lt_decimal	coefficient-decimal/sources/C1DecimalBound.lean

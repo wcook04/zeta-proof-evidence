@@ -1,0 +1,25 @@
+{
+  "checked_at_utc": "2026-11-23T20:30:37.865544+00:00",
+  "comparator_accepted": true,
+  "exit_code": 0,
+  "exporter_sha256": null,
+  "label": "grid original prefix r1",
+  "log_sha256": "44185e931f2fc8b47a320483e3fea92b5edc0288cf80f976547fd712815368a4",
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "raw_receipt_sha256": "d0f1cf04cd467e43316e5495b93a7aacc80b32883d8ed9e3672ae08c4d7899f2",
+  "sandboxed": false,
+  "status": "passed",
+  "theorems": [
+    "ZetaComparator.pinned_row_count",
+    "ZetaComparator.pinnedRows_recover_sharedBatches",
+    "ZetaComparator.pinned_shared_checked",
+    "ZetaComparator.pinned_own_checked",
+    "ZetaComparator.shared_checked"
+  ],
+  "tool": "Lean 4.35.0 bundled Lake Comparator",
+  "toolchain": "Lean (version 4.35.0, arm64-apple-darwin24.6.0, commit eb6cafb7290e8bd5f2937522d8d804f58f02bafc, Release)"
+}

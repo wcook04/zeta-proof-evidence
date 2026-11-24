@@ -1,0 +1,30 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "ZetaComparator.actual_five_replacements_preserve_indexed_roots",
+    "ZetaComparator.fiveReplacements_trueSigns",
+    "ZetaComparator.independent_assembly_same_root",
+    "ZetaComparator.hardyZ_moved_106",
+    "ZetaComparator.hardyZ_left_neighbor_106",
+    "ZetaComparator.hardyZ_right_neighbor_106",
+    "ZetaComparator.hardyZ_moved_114",
+    "ZetaComparator.hardyZ_left_neighbor_114",
+    "ZetaComparator.hardyZ_right_neighbor_114",
+    "ZetaComparator.hardyZ_moved_184",
+    "ZetaComparator.hardyZ_left_neighbor_184",
+    "ZetaComparator.hardyZ_right_neighbor_184",
+    "ZetaComparator.hardyZ_moved_242",
+    "ZetaComparator.hardyZ_left_neighbor_242",
+    "ZetaComparator.hardyZ_right_neighbor_242",
+    "ZetaComparator.hardyZ_moved_378",
+    "ZetaComparator.hardyZ_left_neighbor_378",
+    "ZetaComparator.hardyZ_right_neighbor_378"
+  ],
+  "definition_names": [],
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ]
+}

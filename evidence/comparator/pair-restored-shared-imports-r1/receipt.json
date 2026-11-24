@@ -1,0 +1,45 @@
+{
+  "challenge_proof_names_absent": [
+    "originalPair2391_2392_strict",
+    "originalPair2391_2392_lehmer",
+    "originalPair2391_2392_csv",
+    "h₀Argument_scaledRoot",
+    "scaledRoot_h₀Argument",
+    "csvH₀_at_scaledRoot",
+    "csvH₀_order",
+    "originalPair2391_2392_robust",
+    "originalPair2391_2392_widened_absolute"
+  ],
+  "checked_at_utc": "2026-11-24T12:00:37.819322+00:00",
+  "comparator_accepted": true,
+  "exit_code": 0,
+  "exporter_sha256": "6ef2c76a0abb3693e6223a6ff63a315c91a64e255c42dfe93d42fa781bac7d4b",
+  "label": "Named Lehmer pair",
+  "log_sha256": "44185e931f2fc8b47a320483e3fea92b5edc0288cf80f976547fd712815368a4",
+  "negative_control": {
+    "log_sha256": "dc726362a465ec6edb7bd6aeb71ff97419e843ea78b43284ca505623dc87e1d4",
+    "method": "Lake.Check.compareAt on compiled theorem declarations",
+    "rejected_for_statement_mismatch": true
+  },
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "raw_receipt_sha256": "b9d71cc8276825f25644d2dd8c5d39ed08db29eaa31b19ca7bdd9b089f992ed2",
+  "sandboxed": false,
+  "status": "passed",
+  "theorems": [
+    "ZetaComparator.pairStrict",
+    "ZetaComparator.pairLehmer",
+    "ZetaComparator.pairClassical",
+    "ZetaComparator.classicalRootArgument",
+    "ZetaComparator.classicalArgumentRoot",
+    "ZetaComparator.classicalNormalizedValue",
+    "ZetaComparator.classicalNormalizedOrder",
+    "ZetaComparator.pairRelativeRobust",
+    "ZetaComparator.pairAbsoluteRobust"
+  ],
+  "tool": "Lean 4.35.0 bundled Lake Comparator",
+  "toolchain": "Lean (version 4.35.0, arm64-apple-darwin24.6.0, commit eb6cafb7290e8bd5f2937522d8d804f58f02bafc, Release)"
+}

@@ -1,0 +1,18 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "ZetaComparatorComponents.component_h\u2080Argument_scaledRoot",
+    "ZetaComparatorComponents.component_scaledRoot_h\u2080Argument",
+    "ZetaComparatorComponents.component_csvH\u2080_at_scaledRoot",
+    "ZetaComparatorComponents.component_csvH\u2080_order",
+    "ZetaComparatorComponents.component_h\u2080Term_eq_complexTerm",
+    "ZetaComparatorComponents.component_complexScore_comparison",
+    "ZetaComparatorComponents.component_im_tsum_exterior_eq_zero_of_reflection"
+  ],
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ]
+}

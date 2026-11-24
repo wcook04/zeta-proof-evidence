@@ -1,0 +1,17 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "ZetaComparatorComponents.component_logWeight_norm",
+    "ZetaComparatorComponents.component_upper_perturb_logs",
+    "ZetaComparatorComponents.component_weightedLogDelta_abs_le",
+    "ZetaComparatorComponents.component_upper_perturb_logs_abs_le",
+    "ZetaComparatorComponents.component_relative_transport_lt_robust",
+    "ZetaComparatorComponents.component_robustScoreCutoff_lt"
+  ],
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ]
+}

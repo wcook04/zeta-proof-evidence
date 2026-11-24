@@ -1,0 +1,22 @@
+{
+  "checked_at_utc": "2026-11-23T20:52:32.716909+00:00",
+  "comparator_accepted": true,
+  "exit_code": 0,
+  "exporter_sha256": null,
+  "label": "benchmark trace stock",
+  "log_sha256": "44185e931f2fc8b47a320483e3fea92b5edc0288cf80f976547fd712815368a4",
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "raw_receipt_sha256": "185218a9d875487ca0918be0769d745d48cbd3e601540d1ad997d55944fe7cff",
+  "sandboxed": false,
+  "status": "passed",
+  "theorems": [
+    "BenchmarkComparator.Batch0001",
+    "BenchmarkComparator.Batch0002"
+  ],
+  "tool": "Lean 4.35.0 bundled Lake Comparator",
+  "toolchain": "Lean (version 4.35.0, arm64-apple-darwin24.6.0, commit eb6cafb7290e8bd5f2937522d8d804f58f02bafc, Release)"
+}

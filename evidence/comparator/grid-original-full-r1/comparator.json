@@ -1,0 +1,19 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "ZetaComparator.pinned_row_count",
+    "ZetaComparator.pinnedRows_recover_sharedBatches",
+    "ZetaComparator.pinned_shared_checked",
+    "ZetaComparator.pinned_own_checked",
+    "ZetaComparator.shared_checked",
+    "ZetaComparator.shared_check_count",
+    "ZetaComparator.shared_batched_checks"
+  ],
+  "definition_names": [],
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "ZetaComparator.original_count",
+    "ZetaComparator.moved_count",
+    "ZetaComparator.original_classification",
+    "ZetaComparator.original_reversed_sites",
+    "ZetaComparator.moved_all_checks",
+    "ZetaComparator.moved_all_forward"
+  ],
+  "definition_names": [],
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ]
+}

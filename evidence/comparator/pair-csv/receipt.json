@@ -1,0 +1,27 @@
+{
+  "checked_at_utc": "2026-11-23T20:36:33.948772+00:00",
+  "comparator_accepted": true,
+  "exit_code": 0,
+  "exporter_sha256": null,
+  "label": "pair csv",
+  "log_sha256": "44185e931f2fc8b47a320483e3fea92b5edc0288cf80f976547fd712815368a4",
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "raw_receipt_sha256": "bb33c6eed23bcf75410cc4c111c9cf3747215117f0c9b866ceefb7d5956592b8",
+  "sandboxed": false,
+  "status": "passed",
+  "theorems": [
+    "ZetaComparatorComponents.component_h₀Argument_scaledRoot",
+    "ZetaComparatorComponents.component_scaledRoot_h₀Argument",
+    "ZetaComparatorComponents.component_csvH₀_at_scaledRoot",
+    "ZetaComparatorComponents.component_csvH₀_order",
+    "ZetaComparatorComponents.component_h₀Term_eq_complexTerm",
+    "ZetaComparatorComponents.component_complexScore_comparison",
+    "ZetaComparatorComponents.component_im_tsum_exterior_eq_zero_of_reflection"
+  ],
+  "tool": "Lean 4.35.0 bundled Lake Comparator",
+  "toolchain": "Lean (version 4.35.0, arm64-apple-darwin24.6.0, commit eb6cafb7290e8bd5f2937522d8d804f58f02bafc, Release)"
+}

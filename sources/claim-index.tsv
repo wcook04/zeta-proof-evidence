@@ -1,0 +1,37 @@
+claim	Lean declaration	file	line	upstream revision
+Coefficient bound 1/8	Zeta.RiemannSiegel.abs_correctionLinear_lt_eighth	Lean proofs/sources/C1Bound.lean	11	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Decimal coefficient enclosure	Zeta.RiemannSiegel.abs_correctionLinear_lt_decimal	Lean proofs/coefficient-decimal/sources/C1DecimalBound.lean	62	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Revised shared and catalogue individual comparisons	ZetaGridChecks.pinned_shared_checked	Lean proofs/original-grid/GridSourceBinding.lean	10740	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Revised shared and catalogue individual comparisons	ZetaGridChecks.pinned_own_checked	Lean proofs/original-grid/GridSourceBinding.lean	10802	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Revised shared and catalogue individual comparisons	ZetaGridChecks.pinned_row_count	Lean proofs/original-grid/GridSourceBinding.lean	10682	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Total of 10,155 shared comparisons	ZetaGridChecks.shared_check_count	Lean proofs/original-grid/generated/shared/GridCoverage.lean	169	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Adjacent indexed zeros at the five moves	ZetaSourceRows.actual_five_replacements_preserve_indexed_roots	Lean proofs/moved-roots/sources/ActualMoves.lean	669	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Adjacent indexed zeros at the five moves	ZetaSourceRows.fiveReplacements_trueSigns	Lean proofs/moved-roots/sources/ActualMoves.lean	329	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Catalogue ordinals, simplicity, exclusion and finite critical-line height	ZetaSourceRows.original_pair_ordinals	Lean proofs/named/sources/OriginalSourcePair.lean	122	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Catalogue ordinals, simplicity, exclusion and finite critical-line height	ZetaSourceRows.original_pair_simple	Lean proofs/named/sources/OriginalSourcePair.lean	132	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Catalogue ordinals, simplicity, exclusion and finite critical-line height	ZetaSourceRows.original_pair_exterior	Lean proofs/named/sources/OriginalSourcePair.lean	139	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Catalogue ordinals, simplicity, exclusion and finite critical-line height	ZetaSourceRows.reconstructedRH10011	Lean proofs/named/sources/OriginalSourcePair.lean	111	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Refined bracket signs	PairEvaluation.hardy2391Left	Lean proofs/named/sources/PairRoot2391Left.lean	14	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Refined bracket signs	PairEvaluation.hardy2391Right	Lean proofs/named/sources/PairRemainingSigns.lean	14	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Refined bracket signs	PairEvaluation.hardy2392Left	Lean proofs/named/sources/PairRemainingSigns.lean	19	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Refined bracket signs	PairEvaluation.hardy2392Right	Lean proofs/named/sources/PairRemainingSigns.lean	24	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Seven stabilised log values	PairEvaluation.logSample0	Lean proofs/named/sources/PairSample0.lean	14	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Seven stabilised log values	PairEvaluation.logSample1	Lean proofs/named/sources/PairRemainingSamples.lean	14	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Seven stabilised log values	PairEvaluation.logSample2	Lean proofs/named/sources/PairRemainingSamples.lean	22	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Seven stabilised log values	PairEvaluation.logSample3	Lean proofs/named/sources/PairRemainingSamples.lean	30	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Seven stabilised log values	PairEvaluation.logSample4	Lean proofs/named/sources/PairRemainingSamples.lean	38	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Seven stabilised log values	PairEvaluation.logSample5	Lean proofs/named/sources/PairRemainingSamples.lean	46	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Seven stabilised log values	PairEvaluation.logSample6	Lean proofs/named/sources/PairRemainingSamples.lean	54	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Projected and critical-line bounds	ZetaMercuriXi.originalPair2391_2392_strict	Lean proofs/named/sources/MercuriXiNamedProof.lean	19	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Projected and critical-line bounds	ZetaMercuriXi.originalPair2391_2392_lehmer	Lean proofs/named/sources/MercuriXiNamedProof.lean	34	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Complex score, reality and positivity	ZetaCSV.originalPair2391_2392_csv	Lean proofs/classical-pair/sources/CSVNamed.lean	93	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Classical affine scaling and orders	ZetaCSV.h₀Argument_scaledRoot	Lean proofs/classical-pair/sources/CSVNormalization.lean	19	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Classical affine scaling and orders	ZetaCSV.scaledRoot_h₀Argument	Lean proofs/classical-pair/sources/CSVNormalization.lean	25	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Classical affine scaling and orders	ZetaCSV.csvH₀_at_scaledRoot	Lean proofs/classical-pair/sources/CSVNormalization.lean	31	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Classical affine scaling and orders	ZetaCSV.csvH₀_order	Lean proofs/classical-pair/sources/CSVNormalization.lean	35	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Widened logs, absolute estimate	ZetaAbsoluteWitness.originalPair2391_2392_widened_absolute	Lean proofs/absolute-witness/AbsoluteWitness.lean	363	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Widened logs, relative estimate	ZetaLogRobustness.originalPair2391_2392_robust	Lean proofs/log-robustness/LogRobustness.lean	76	34037d5a7662e2eb6e970bfb22299c84e45ed5d9
+Later-release prefix	LaterGridPrefix.original_classification	Lean proofs/later-grid/LaterGridPrefix.lean	1314	c06b4e13d9c847e50a32c3d738271cbad62ae9f3
+Later-release prefix	LaterGridPrefix.original_reversed_sites	Lean proofs/later-grid/LaterGridPrefix.lean	1306	c06b4e13d9c847e50a32c3d738271cbad62ae9f3
+Later-release prefix	LaterGridPrefix.moved_all_checks	Lean proofs/later-grid/LaterGridPrefix.lean	1318	c06b4e13d9c847e50a32c3d738271cbad62ae9f3
+Later-release prefix	LaterGridPrefix.moved_all_forward	Lean proofs/later-grid/LaterGridPrefix.lean	1310	c06b4e13d9c847e50a32c3d738271cbad62ae9f3
